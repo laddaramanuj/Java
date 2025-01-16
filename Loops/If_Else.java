@@ -30,7 +30,7 @@ public class If_Else {
         }
         System.out.println("Thankks for using my java code");
 
-        
+        sc.close();
     }
     
 }

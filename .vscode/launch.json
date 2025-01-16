@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Method_Overloading",
+            "request": "launch",
+            "mainClass": "Methods.Method_Overloading",
+            "projectName": "Java_881f9591"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Arrays.Main",
+            "projectName": "Java_881f9591"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

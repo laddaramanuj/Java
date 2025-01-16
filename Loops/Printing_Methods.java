@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Printing_Methods {
     public static void main(String[] args) {
-        String s1 = "harry";
+        // String s1 = "harry";
         String s2 = new String("harry");
         System.out.println("the name is: ");
         System.out.println(s2);
