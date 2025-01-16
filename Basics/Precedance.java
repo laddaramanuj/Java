@@ -1,4 +1,4 @@
-package Day1;
+package Basics;
 
 public class Precedance {
     public static void main(String[] args) {

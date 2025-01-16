@@ -1,4 +1,4 @@
-package Day1;
+package Basics;
 
 public class ResultingDatatype {
     public static void main(String[] args) {
