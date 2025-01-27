@@ -1,3 +1,5 @@
+package Custom_Classes;
+
 import java.util.*;
 
 class Game{
@@ -32,7 +34,7 @@ class Game{
     }
 }
 
-public class Main {
+public class NumberGuessingGame {
     public static void main(String[] args) {
         Game g1 = new Game();
         Scanner sc = new Scanner(System.in);
@@ -42,5 +44,6 @@ public class Main {
             g1.isCorrectNumber();
         }
         sc.close();
+        System.out.println(Math.PI);
     }
 }
